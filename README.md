@@ -1,4 +1,4 @@
-# Frequency_domain_convolutional_network_with_historical_data_fusion_module_for_Regional_Streamflow_Prediction
+# Frequency domain convolutional network with historical data fusion module for Regional Streamflow Prediction
 
 ## Getting Started
 This repository contains the code and resources related to the paper titled "Frequency_domain_convolutional_network_with_historical_data_fusion_module_for_Regional_Streamflow_Prediction".
@@ -8,7 +8,7 @@ This repository contains the code and resources related to the paper titled "Fre
 3. (Optional) Configure training parameters in **/run_config/pretrain_config.py**.
 4. Run **pretrain.py** to pretrain the model.
 5. Test the pretrained model globally using **pretrain_test_global.py**.
-6. 
+
 ## Data Download
 
 Download data from the following:
